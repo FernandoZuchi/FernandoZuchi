@@ -1,8 +1,8 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://www.notion.so/images/page-cover/webb1.jpg" />
+<img align="center" style="margin-bottom:100px" width=100% src="navgit.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Olá, meu nome é <strong>Fernando Zuchi</strong>. <br><br> Tanto no Front-End quanto no Back-End, Eu sou <strong>apaixonado em aprender coisas novas</strong> e usá-las para desenvolver projetos e criaar soluções. Hoje, eu sou <strong>Mentor FullStack</strong> na Codi Academy, uma escola focada em formar programadores, também atuo na área da programação na empresa, focado em Web-Design e desenvolvimento de software para empresas parceiras.</p>&nbsp;
+<p align="center">Estou práticando a resolução de problemas usando a tecnologia. <br><br> Tanto no Front-End quanto no Back-End, Eu sou <strong>apaixonado em aprender coisas novas</strong> e usá-las para desenvolver projetos e criaar soluções. Hoje, eu sou <strong>Mentor FullStack</strong> na Codi Academy, uma escola focada em formar programadores, também atuo na área da programação na empresa, focado em Web-Design e desenvolvimento de software para empresas parceiras.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FernandoZuchi&theme=radical&mode=weekly" />
