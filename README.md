@@ -29,7 +29,7 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="WhatsApp Image 2024-01-03 at 15.27.54.jpeg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Habilidades Secundárias:
 
