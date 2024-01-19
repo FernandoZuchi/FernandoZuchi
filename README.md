@@ -11,8 +11,6 @@
  
  &nbsp;
  &nbsp;
- #Hi
-
 
 
 ## My Skills
