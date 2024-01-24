@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px;" width=920px height=200px src="d80a3f63-8a26-4bbb-a963-df733f24600f.jpg"
+<img align="center" style="margin-bottom:100px;" width=100% src="navgit.png"
 />
 &nbsp;&nbsp;&nbsp;
 
