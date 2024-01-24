@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px;" width=50% src="d80a3f63-8a26-4bbb-a963-df733f24600f.jpg" />
+<img align="center" style="margin-bottom:100px;" width=100%  heigth=50% src="d80a3f63-8a26-4bbb-a963-df733f24600f.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Estou práticando a resolução de problemas usando a tecnologia. <br><br> Tanto no Front-End quanto no Back-End, Eu sou <strong>apaixonado em aprender coisas novas</strong> e usá-las para desenvolver projetos e criar soluções. Hoje, eu sou <strong>Mentor FullStack</strong> na Codi Academy, uma escola focada em formar programadores, também atuo na área da programação na empresa, focado em Web-Design e desenvolvimento de software para empresas parceiras.</p>&nbsp;
