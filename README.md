@@ -57,7 +57,7 @@ Estou no 2° período da faculdade de Análise e Desenvolvimento de Sistemas.
 &nbsp;
 &nbsp;
 
-## Contato:
+## Formas de contato:
 
 <div> 
 <a href="https://www.instagram.com/fernandozuchiozorio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
