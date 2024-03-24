@@ -6,7 +6,7 @@
 <p align="center">Estou práticando a resolução de problemas usando a tecnologia. <br><br> Tanto no Front-End quanto no Back-End, Eu sou <strong>apaixonado em aprender coisas novas</strong> e usá-las para desenvolver projetos e criar soluções. Hoje, eu sou <strong>Mentor FullStack</strong> na Codi Academy, uma escola focada em formar programadores, também atuo na área da programação na empresa, focado em Web-Design e desenvolvimento de software para empresas parceiras.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FernandoZuchi&theme=radical&mode=weekly" />
+<!--<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FernandoZuchi&theme=radical&mode=weekly" />-->
 <img width=40% align="center" src="https://github-readme-stats-two-rosy-52.vercel.app/api/top-langs/?username=FernandoZuchi&show_icons=true&theme=radical&layout=compact" />
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoZuchi&layout=compact&langs_count=8&card_width=320&theme=merko" />
  </div>
