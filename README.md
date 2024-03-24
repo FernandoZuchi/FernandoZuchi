@@ -7,7 +7,10 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FernandoZuchi&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-two-rosy-52.vercel.app/api/top-langs/?username=FernandoZuchi&show_icons=true&theme=radical&layout=compact" />
+<!--<img width=40% align="center" src="https://github-readme-stats-two-rosy-52.vercel.app/api/top-langs/?username=FernandoZuchi&show_icons=true&theme=radical&layout=compact" />-->
+   <a href="https://github.com/anuraghazra/convoychat">
+    <img height="" style="width: 500;" src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoZuchi&layout=compact&langs_count=8&card_width=320&theme=merko" />
+  </a>
  </div>
  
  &nbsp;
