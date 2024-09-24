@@ -1,32 +1,20 @@
 
-<img align="center" style="margin-bottom:100px;" width=100% src="navgit.png"
-/>
-&nbsp;
+<p align="center">Olá! Meu nome é <strong>Fernando Zuchi</strong>. Tanto no Front-End quanto no Back-End, Eu sou <strong>apaixonado em aprender coisas novas</strong> e usá-las para desenvolver projetos e criar soluções. Hoje, eu sou <strong>Mentor FullStack</strong> na Codi Academy, uma escola focada em formar programadores, também atuo na área da programação na empresa, focado em Web-Design e desenvolvimento de software para empresas parceiras.</p>&nbsp;
 
-<p align="center">Estou práticando a resolução de problemas usando a tecnologia. <br><br> Tanto no Front-End quanto no Back-End, Eu sou <strong>apaixonado em aprender coisas novas</strong> e usá-las para desenvolver projetos e criar soluções. Hoje, eu sou <strong>Mentor FullStack</strong> na Codi Academy, uma escola focada em formar programadores, também atuo na área da programação na empresa, focado em Web-Design e desenvolvimento de software para empresas parceiras.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FernandoZuchi&theme=radical&mode=weekly" />
- <br>
-<!--<img width=40% align="center" src="https://github-readme-stats-two-rosy-52.vercel.app/api/top-langs/?username=FernandoZuchi&show_icons=true&theme=radical&layout=compact" />-->
-<img width=55% src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoZuchi&layout=compact&langs_count=8&card_width=320&theme=merko" />
+<div align="center">
+<!--  <img width=40% height="220px" src="https://github-readme-streak-stats.herokuapp.com?user=FernandoZuchi&theme=radical&mode=weekly" /> -->
+ <!--<img width=40% align="center" src="https://github-readme-stats-two-rosy-52.vercel.app/api/top-langs/?username=FernandoZuchi&show_icons=true&theme=radical&layout=compact" />-->
+ <img width=40%  src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoZuchi&layout=compact&langs_count=8&card_width=320&theme=merko" />
  </div>
  
- &nbsp;
- &nbsp;
-
-
-
 ## My Skills
 
 #### Habilidades Principais:
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
@@ -41,12 +29,14 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 #### Bancos de Dados:
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![SQLITE](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Estudando nesse momento:
 
@@ -56,10 +46,11 @@ Estou no 3° período da faculdade de Análise e Desenvolvimento de Sistemas.
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white))&nbsp;
 
+
 &nbsp;
 &nbsp;
 
-## Formas de contato:
+**Formas de contato**:
 
 <div> 
 <a href="https://www.instagram.com/fernandozuchiozorio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
