@@ -4,7 +4,7 @@
 <div align="center">
 <!--  <img width=40% height="220px" src="https://github-readme-streak-stats.herokuapp.com?user=FernandoZuchi&theme=radical&mode=weekly" /> -->
  <!--<img width=40% align="center" src="https://github-readme-stats-two-rosy-52.vercel.app/api/top-langs/?username=FernandoZuchi&show_icons=true&theme=radical&layout=compact" />-->
- <img width=40%  src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoZuchi&layout=compact&langs_count=8&card_width=320&theme=merko" />
+ <img width=40%  src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoZuchi&exclude_repo=ADS&layout=compact&langs_count=8&card_width=320&theme=merko" />
  </div>
  
 ## My Skills
