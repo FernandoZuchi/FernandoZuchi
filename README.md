@@ -1,5 +1,5 @@
 
-<p align="center">Olá! Meu nome é <strong>Fernando Zuchi</strong>. Tanto no Front-End quanto no Back-End, Eu sou <strong>apaixonado em aprender coisas novas</strong> e usá-las para desenvolver projetos e criar soluções. Hoje, eu sou CTO na Codi Academy, uma escola focada em formar programadores fullstack para o mercado, e criar soluções envolvendo tecnologia, para empresas parceiras.</p>&nbsp;
+<p align="center">Olá! Meu nome é <strong>Fernando Zuchi</strong>. Tanto no Front-End quanto no Back-End, Eu sou <strong>apaixonado em aprender coisas novas</strong> e usá-las para desenvolver projetos e criar soluções. </p>&nbsp;
 
 <div align="center">
 <!--  <img width=40% height="220px" src="https://github-readme-streak-stats.herokuapp.com?user=FernandoZuchi&theme=radical&mode=weekly" /> -->
