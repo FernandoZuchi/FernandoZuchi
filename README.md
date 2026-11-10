@@ -1,11 +1,6 @@
 
 <p align="center">Olá! Meu nome é <strong>Fernando Zuchi</strong>. Tanto no Front-End quanto no Back-End, Eu sou <strong>apaixonado em aprender coisas novas</strong> e usá-las para desenvolver projetos e criar soluções. </p>&nbsp;
 
-<div align="center">
-<!--  <img width=40% height="220px" src="https://github-readme-streak-stats.herokuapp.com?user=FernandoZuchi&theme=radical&mode=weekly" /> -->
- <!--<img width=40% align="center" src="https://github-readme-stats-two-rosy-52.vercel.app/api/top-langs/?username=FernandoZuchi&show_icons=true&theme=radical&layout=compact" />-->
- <img width=40%  src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoZuchi&exclude_repo=ADS&layout=compact&langs_count=8&card_width=320&theme=merko" />
- </div>
  
 ## My Skills
 
@@ -38,9 +33,9 @@
 ![SQLITE](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-#### Estudando nesse momento:
+#### Formação:
 
-Estou no 4° período da faculdade de Análise e Desenvolvimento de Sistemas.
+Análise e Desenvolvimento de Sistemas - FIVJ
 
 #### Ferramentas de trabalho:
 
